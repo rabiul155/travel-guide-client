@@ -1,0 +1,11 @@
+.cart-container {
+    max-width: 650px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    border: 2px solid black;
+}
+
+.card-image {
+    height: 250px;
+    width: 300px;
+}

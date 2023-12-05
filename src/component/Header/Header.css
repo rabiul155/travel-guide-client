@@ -1,0 +1,13 @@
+.search-field {
+    background-color:
+        rgba(255, 255, 255, 0.304);
+
+    border: 2px solid white;
+    border-radius: 5px;
+
+}
+
+input::placeholder {
+    color: white !important;
+    font-weight: 400;
+}
